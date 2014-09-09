@@ -1,0 +1,31 @@
+.header{
+	background-color: #5A0059;
+	color: white;
+	font-variant: small-caps;
+	font-family: monospace;
+	font-size:3.25em;
+	font-weight: 900;
+}
+
+body{
+	padding-top: 195px;
+}
+
+.projects{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.image{
+	max-width: 15em;
+	max-height: 15em;
+}
+
+.box{
+	max-width: 50em;
+	max-height: 50em;
+}
+
+.button-font-size{
+	font-size: 2em;
+}
